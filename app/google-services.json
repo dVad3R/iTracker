@@ -33,6 +33,35 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369753856002:android:3c4621c67d38ae514b2f1b",
+        "android_client_info": {
+          "package_name": "com.example.itracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369753856002-t38oihfq3j3tuc46r6huq33dhk88trk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2m5tXi-NA9dITV0Yq7lyNlY9DgrSUPjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369753856002-t38oihfq3j3tuc46r6huq33dhk88trk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"
